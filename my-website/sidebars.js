@@ -3,5 +3,6 @@ module.exports = {
     'intro',
     'arquitectura',
     'estandar_de_codigo',
+    'estandares_csharp_unity',
   ],
 };
