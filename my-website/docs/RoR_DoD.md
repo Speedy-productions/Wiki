@@ -94,7 +94,7 @@ Como \<rol\> quiero \<acción\> para \<beneficio\>.
 
 ---
 
-## 🚀 Aplicado a nuestro Sprint Backlog (8)
+## 🚀 Ejemplos Sprint Backlog (8)
 
 1. **Menú principal — UI/UX (2p)**  
    DoR: wireframe con estados; navegación (teclado/mando/mouse); flujo a Jugar/Opciones/Salir; escena bootstrap.  
@@ -164,7 +164,7 @@ Como \<rol\> quiero \<acción\> para \<beneficio\>.
 
 ---
 
-## 📦 Aplicado a nuestro Product Backlog (12)
+## 📦 Ejemplos Product Backlog (12)
 
 1. **Mejorar restaurante — Mecánica, UI/UX**  
    DoR: lista de mejoras (decoración, equipos, buffs); impacto en score/tiempo; UI de upgrade.  
