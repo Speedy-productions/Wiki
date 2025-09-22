@@ -14,7 +14,6 @@ Una historia entra al sprint solo si cumple todo lo siguiente.
 - Criterios de aceptación en Given–When–Then (≥ 3 casos + 1 edge/error).
 - Alcance acotado (incluye / excluye).
 - Dependencias resueltas (arte, backend, input, escenas, datos).
-- Contratos de datos/eventos: interfaces, ScriptableObjects, eventos y payloads definidos.
 - Rendimiento: objetivo 60 FPS (mín. 30).
 - Localización: claves de texto listadas (sin hardcode).
 - Riesgos + mitigación breve.
@@ -22,12 +21,10 @@ Una historia entra al sprint solo si cumple todo lo siguiente.
 
 ### DoR — Minijuego
 - Loop descrito (inicio → reto → éxito/fallo → recompensa/salida).
-- Contrato IMinigame + eventos; métricas de score/tiempo acordadas.
 - Assets mínimos listos o placeholders validados.
 - Input mapping (teclado/mando) definido.
 
 ### DoR — Backend
-- API/contrato: endpoints, campos, códigos de error, timeouts y retries.
 - Seguridad: autenticación, firma, expiración y rate limiting.
 - Entorno de pruebas (mock/staging) disponible con datos semilla.
 
@@ -58,7 +55,6 @@ Una historia está terminada solo si cumple todo lo siguiente.
 
 ### DoD — Minijuego
 - Estados implementados: intro / playing / success / fail / exit.
-- IMinigame y eventos operativos; resultado determinista.
 - Tutorial o first-time hint.
 - Pooling verificado (sin fugas de memoria/instancias).
 
