@@ -14,7 +14,6 @@ module.exports = {
       'classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
           path: 'docs',
           routeBasePath: '/',
         },
@@ -38,6 +37,11 @@ module.exports = {
         {
           href: 'https://github.com/Speedy-productions',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://drive.google.com/drive/folders/1mLWGT7bIfG9Bf08xxPhY5lDXUBJffp-_?usp=sharing',
+          label: 'Drive',
           position: 'right',
         },
       ],

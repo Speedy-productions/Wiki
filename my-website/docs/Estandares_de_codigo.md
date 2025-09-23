@@ -1,3 +1,7 @@
+---
+title: Estándar de código
+---
+
 # Estándares y convenciones de codificación
 
 Este documento explica **qué estándar formal seguimos en C#** y **qué convenciones de codificación aplicamos** tanto en C# como en Unity.

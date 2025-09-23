@@ -1,3 +1,7 @@
+---
+title: Definición de Ready y Done
+---
+
 # Definición de Ready (DoR) y Done (DoD)
 
 Este documento define cuándo una historia está lista para entrar al sprint (DoR) y cuándo está realmente terminada (DoD), y las aplica a nuestras historias del Sprint Backlog y del Product Backlog.  
@@ -76,6 +80,8 @@ Una historia está terminada solo si cumple todo lo siguiente.
 ---
 
 ## 🧩 Plantilla breve para cada historia
+
+```
 # Historia: \<Nombre\>
 ## Descripción
 Como \<rol\> quiero \<acción\> para \<beneficio\>.
@@ -91,6 +97,7 @@ Como \<rol\> quiero \<acción\> para \<beneficio\>.
 
 ## DoD específicos
 - ...
+```
 
 ---
 
