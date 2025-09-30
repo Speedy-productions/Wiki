@@ -38,7 +38,7 @@ El número 10, de un palo distinto, funciona como comodín para tomar la palabra
 
 ---
 
-## Interfaces
+## Prototipo de bajo nivel
 
 <iframe
   style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }}
