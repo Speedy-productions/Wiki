@@ -38,6 +38,46 @@ El número 10, de un palo distinto, funciona como comodín para tomar la palabra
 
 ---
 
+## Manejo de ramas
+
+```bash
+# Ver las ramas existentes
+git branch
+
+# Crear una nueva rama y cambiarte a ella
+git checkout -b nombre-de-la-rama
+
+# O solo cambiar a una rama existente
+git checkout nombre-de-la-rama
+
+# Ver archivos modificados
+git status
+
+# Ver diferencias
+git diff
+
+# Añadir todos los cambios
+git add -A
+
+# Subir la rama y los commits
+git commit -m "Mensaje descriptivo del commit"
+git push origin nombre-de-la-rama
+
+# Cambiar a la rama principal
+git checkout main
+
+# Traer cambios remotos
+git pull origin main
+
+# Fusionar tu rama
+git merge nombre-de-la-rama
+
+# Subir cambios a remoto
+git push origin main
+```
+
+---
+
 ## Prototipo de bajo nivel
 
 <iframe
