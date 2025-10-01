@@ -5,5 +5,6 @@ module.exports = {
     'estandar_de_codigo',
     'estandares_csharp_unity',
     'RoR_DoD',
+    'pruebas',
   ],
 };
